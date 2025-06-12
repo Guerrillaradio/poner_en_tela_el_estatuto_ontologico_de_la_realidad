@@ -1,6 +1,7 @@
               
 <p>poner en tela el estatuto ontologico de la realidad
-                                           
+<p>
+<p>                                           
 <p>No son problemas, son oportunidades
 <p>De mejorar y superar adversidades
 <p>Tú tienes gran poder, sólo quiérete
