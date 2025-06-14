@@ -11,7 +11,7 @@
 <p>Todo es mental, todo es como lo percibes
 <p>Tú puedes cambiar la percepción de lo que vives
 <p>La belleza está en los ojos del que mira
-<p>Todo es del color de la luz que recibe
+<p>Todo es del color de la luz que recibe</p>
 
-
+<a href="https://guerrillaradio.github.io/un_hombre_desahuciado_sonriendo/"><div><font color="#00ff00">铀</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a>
 
